@@ -1,28 +1,18 @@
-- Getting started
+- 向导
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [使用步骤](quickstart.md)
+   
+- 通用功能
 
-- Customization
+  - [执行数据](configuration.md)
+  - [对象查询](themes.md)
+  - [收藏夹](plugins.md)
+  - [数据导出](plugins.md)
+ 
+- 配置
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [连接配置](deploy.md)
+  - [界面设置](helpers.md)
 
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+ 
+- [更新日志](changelog.md)
