@@ -21,7 +21,7 @@
 # 下载和安装
 ## For Windows
 
-- 下载链接: http://shanxik.cc/downloads/modern/5CCC4B2E6874D16D728192EF71F819DC.zip
+- 下载链接: [点此下载](https://shanxik.cc/downloads/modern/5CCC4B2E6874D16D728192EF71F819DC.zip)
 - 要求: 
   - Windows 7 或更高系统
   - .NET 4.5 或更高
@@ -36,10 +36,4 @@
 # 连接说明
 
 与传统的数据库连接工具不同，小灯泡在直接连接数据库的基础上，还增加了连接到应用服务器的方式。在应用服务器中，小灯泡配置了鉴权管理、多库连接管理、缓存管理、日志管理、数据执行审查等重要功能。
-
-
-
-
-
-
 
